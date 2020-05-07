@@ -1,0 +1,161 @@
+body{
+  color: #40514E;
+  margin: 0;
+  font-weight: bolder;
+  text-align: center;
+  font-family: 'Montserrat',serif;
+}
+h1{
+  margin: 2.8rem auto 0.5rem auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento',cursive;
+  color: #58b4ae;
+}
+p{
+  line-height: 2;
+}
+h2{
+  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', serif;
+  color: #58b4ae;
+  font-weight: normal;
+  font-size: 2.5rem;
+  margin: 0 auto;
+}
+h3{
+  color: #58b4ae;
+  font-weight: normal;
+  line-height: 2;
+}
+hr{
+  border-style: dotted none none;
+  border-top-color: #6886C5;
+  border-width: 5px;
+  width: 4%;
+  margin: 6rem auto;
+}
+.top_part{
+  background-color: #E3FDFD;
+  text-align: center;
+  margin-left: 0;
+  padding-top: 100px;
+  position: relative;
+}
+.para1{
+  font-family: 'Montserrat', serif;
+  color: #58b4ae;
+  font-size: 2.5rem;
+  margin: 0 auto;
+}
+.pro{
+  text-decoration: underline;
+}
+.into{
+  display: inline-block;
+  width: 30%;
+}
+.top-cloud{
+  position: absolute;
+  top: 5%;
+  right: 25%;
+}
+.toHide{
+  display: none;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 25%;
+  bottom: 40%;
+}
+.mountain{
+  margin: 0 auto 0 auto;
+}
+.display_pic{
+  max-height: 12rem;
+  max-width: 12rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-radius: 50%;
+}
+.middle-container{
+  width: 70%;
+  margin: 3rem auto;
+}
+.skill-row{
+  /* display: inline-block; */
+  width: 70%;
+  margin: 6rem auto 6rem auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact_me{
+  width: 40%;
+}
+.code-img{
+  /* position: relative;
+  bottom: 2rem; */
+  display: block;
+  border-radius: 50%;
+  width: 25%;
+  margin-right: 2rem;
+  float: left;
+}
+#my-skills{
+  margin: 2rem auto;
+}
+.online-learning{
+  display: block;
+  height: 16rem;
+  width: 16rem;
+  float: right;
+  margin-left: 2rem;
+}
+#callAction{
+  margin: 2rem auto 1rem;
+}
+.contact_me{
+  width: 40%;
+  margin: 4rem auto;
+}
+.contact-me-message{
+  margin: 2rem auto 2rem;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background:linear-gradient(to bottom, #b4f2e1 5%, #58b4ae 100%);
+	background-color:#b4f2e1;
+	border-radius:1rem;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:1rem;
+	padding:1rem 2rem;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #58b4ae 5%, #b4f2e1 100%);
+	background-color:#58b4ae;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+  color: #00a1ab;
+  margin: 0.6rem 1.25rem;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #26191b;
+}
+.bottom-container{
+  margin: 4rem auto 0;
+  padding: 3.1rem 0 1.25rem;
+  background-color: #E3FDFD;
+}
+.copyright{
+  color: #30475e;
+  font-size: 0.75rem;
+}
